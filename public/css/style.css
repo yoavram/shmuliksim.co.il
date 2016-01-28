@@ -130,7 +130,7 @@ hr.star-primary {
 }
 hr.star-light:after,
 hr.star-primary:after {
-  content: "\2741"; // see http://www.utf8icons.com/
+  content: "\2692"; // see http://www.utf8icons.com/
   font-family: FontAwesome;
   display: inline-block;
   position: relative;
